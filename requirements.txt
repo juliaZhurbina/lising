@@ -1,0 +1,10 @@
+python-telegram-bot==20.7
+gigachat>=0.1.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+python-dotenv>=1.0.0
+aiofiles>=23.0.0
+schedule>=1.2.0  # Для напоминаний и задач
+python-dateutil>=2.8.0  # Для работы с датами
+requests>=2.31.0  # Для работы с GigaChat API
+urllib3>=2.0.0  # Для работы с SSL
